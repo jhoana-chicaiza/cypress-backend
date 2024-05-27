@@ -1,0 +1,22 @@
+{
+    "employees": [
+    {
+        "id": 1,
+        "first_name": "Jhoana",
+        "last_name": "Chicaiza",
+        "email": "hilda.chicaiza@gmail.com"
+    },
+    {
+        "id": 2,
+        "first_name": "Patrik",
+        "last_name": "Vera",
+        "email": "patrik.vera@platzi.com"
+    },
+    {
+        "id": 3,
+        "first_name": "Ana",
+        "last_name": "Smith",
+        "email": "ana@platzi.com"
+    }
+    ]
+}
